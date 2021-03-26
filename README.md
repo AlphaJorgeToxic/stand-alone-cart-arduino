@@ -13,15 +13,15 @@ Esse projeto foi um desenvolvimento de um robô, no qual tem como base o Arduino
 Eletrônica, Engenharia da Computação, 4º Semestre.
 
 ## Componentes
-•	Arduino
-•	Ponte H Direção
-•	Servo motor
-•	Sensor ultrassônico
-•	Sensor infravermelho
-•	Motores
-•	Rodas
-•	Base acrílica
-•	Resistores
+•	Arduino <br />
+•	Ponte H Direção <br />
+•	Servo motor <br />
+•	Sensor ultrassônico <br />
+•	Sensor infravermelho <br />
+•	Motores <br />
+•	Rodas <br />
+•	Base acrílica <br />
+•	Resistores 
 
 
 ## Resultados e Discussões:
