@@ -9,6 +9,9 @@ Esse projeto foi um desenvolvimento de um robô, no qual tem como base o Arduino
 4- Maycon Robert Brolacci <br />
 5- Samuel Ferracini <br />
 
+## Disciplina
+Eletrônica, Engenharia da Computação, 4º Semestre.
+
 ## Abaixo algumas imagens do projeto no TinkerCad
 
 ![image](https://user-images.githubusercontent.com/25436067/112561976-14a6ba00-8db5-11eb-9cec-806167113fe9.png)
