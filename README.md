@@ -1,4 +1,4 @@
-# Carrinho Autônomo com Arduino 
+# Carrinho autônomo capaz de desviar de obstáculos com Arduino
 
 Esse projeto foi um desenvolvimento de um robô, no qual tem como base o Arduino, que consiste em simular um veículo autônomo que identifica obstáculos através de um sensor ultrassônico que mede a distância e define a melhor rota e um infravermelho que identifica objetos, degraus e depressões, possibilitando-o desviar dos mesmos. A programação do robô foi desenvolvida utilizando a linguagem C no software de desenvolvimento do Arduino.
 
