@@ -12,12 +12,23 @@ Esse projeto foi um desenvolvimento de um robô, no qual tem como base o Arduino
 ## Disciplina
 Eletrônica, Engenharia da Computação, 4º Semestre.
 
+## Componentes
+•	Arduino
+•	Ponte H Direção
+•	Servo motor
+•	Sensor ultrassônico
+•	Sensor infravermelho
+•	Motores
+•	Rodas
+•	Base acrílica
+•	Resistores
+
+
 ## Resultados e Discussões:
 Foi dado início do projeto com a programação, definindo como iremos programar cada componente a parte fazendo diversos testes de funcionamento e precisão dos seguintes componentes: infravermelho, sensor ultrassônico e motor. Após os testes, observamos como deveríamos programar cada componente e também analisamos suas precisões. <br /> 
 Passamos então para montagem do robô, no qual tivemos dificuldade com o tamanho da base e tivemos que desistir da ideia de utilizar os dois protoboards, consequentemente não foi possível utilizar o BarGraph, pois não tinha a quantidade necessária de portas lógicas. Seguimos com a montagem dos componentes básicos nos quais são: protoboard, Arduino, duas baterias, motores, Servomotor e os sensores. <br />
 Após a finalização da montagem começamos efetivamente programar o robô com suas funções essenciais para realizar seus objetivos, nos quais consistem em evitar quedas e desviar de objetos. Tivemos dificuldade com a programação do servo motor, pois não havíamos feito teste antes separadamente, visto que foi uma peça que demoramos para adquirir. Tivemos dificuldade na questão dos cálculos de graus e a lógica de virar o sensor ultrassônico, mas apesar disso conseguimos resolver o problema após algumas pesquisas. <br />
 Dessa forma então finalizamos o projeto com sucesso e com todos os objetivos propostos, nos quais se consistem em evitar quedas com sensor infravermelho, analisar se há a presença de chão ou não, e colisões com sensor ultrassônico acoplado ao servo motor para analisar se há um objeto na frente e visualizar qual direção não se encontra obstáculos.
-
 
 ## Abaixo algumas imagens do projeto no TinkerCad
 
